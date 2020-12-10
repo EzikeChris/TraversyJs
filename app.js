@@ -1,0 +1,6 @@
+ // THREE MAIN VARIABLES IN JAVASCRIPT 
+
+ // VAR LET & CONST ///
+
+
+ 
